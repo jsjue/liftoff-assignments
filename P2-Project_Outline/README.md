@@ -13,6 +13,8 @@ Volunteer for the campaign - optional
 Donate - optional
 This project was propelled by the need for new candidates to be able to communicate with interested populations and update them on events and current views of the candidate.
 
+I have been a campaign manager in 2014 for a candidate running for the Kansas State House, although the candidate did not win, I learned a lot and she has decided to run for school board in Kansas and I believe this would be a good functionality for her to "meet" consituents.
+
 ### Features
 Email signup: visitors to the site will be able to register their email to receive emails.
 
