@@ -25,7 +25,7 @@ User login: Approved Users will be able to log in, either by creating accounts i
 Volunteer signup: Visitors will be able to add their information to volunteer to the system, and to asign up for volunteering at events.
 
 ### Technologies
-I will be using Springboot, Thymeleaf, Java, Bootstrap, user authentecation, My SQL
+I will be using Springboot, Thymeleaf, Java, Bootstrap, user authentication, My SQL
 
 
 ### What I'll Have to Learn
