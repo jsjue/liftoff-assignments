@@ -15,9 +15,13 @@ This project was propelled by the need for new candidates to be able to communic
 
 ### Features
 Email signup: visitors to the site will be able to register their email to receive emails.
+
 Email Release schedule: the introduction to the candidate through emails will occur in a prescribed manner.
+
 Share: visitors may share the site with thier friends through email link, twitter or facebook.
+
 User login: Approved Users will be able to log in, either by creating accounts in the system, or by using a third-party authentication provider (e.g. Google Authentication). All access to the site will be restricted to logged-in users.
+
 Volunteer signup: Visitors will be able to add their information to volunteer to the system, and to asign up for volunteering at events.
 
 ### Technologies
