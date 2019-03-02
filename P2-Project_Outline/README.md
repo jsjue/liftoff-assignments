@@ -15,20 +15,20 @@ This project is spurred by a friend of mine who recently started a record label 
 
 
 ### Features
-Email signup: visitors to the site will be able to register their email to receive emails.
 
-Email Release schedule: the introduction to the candidate through emails will occur in a prescribed manner.
+Clickable map, which accesses information from a spreadsheet, with region feature where the user can click on a specific region ie Midwest and get a list of venues.
 
-Share: visitors may share the site with thier friends through email link, twitter or facebook.
+When each venue is clicked the information for each venue is diplayed.
 
-User login: Approved Users will be able to log in, either by creating accounts in the system, or by using a third-party authentication provider (e.g. Google Authentication). All access to the site will be restricted to logged-in users.
+The ability to add a venue to the table through an entry form.
 
-Volunteer signup: Visitors will be able to add their information to volunteer to the system, and to asign up for volunteering at events.
+
+
 
 ### Technologies
-I will be using Springboot, Thymeleaf, Java, Bootstrap, user authentication, My SQL
+I will be using Springboot, Thymeleaf, Java, Bootstrap, My SQL, map function
 
 
 ### What I'll Have to Learn
-I will need to learn how to authenticate users, perhaps through 3rd party, how to create a framework for getting emails into a DB in SQL and then putting those emails on a "timed" release.
+I will need to be able to use a map to connect to a DB and access the information therein.
 I will have to test this process to make sure it functions as it should.
