@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/jsjue
  
 ### LinkedIn
 https://www.linkedin.com/in/janelle-sjue/
